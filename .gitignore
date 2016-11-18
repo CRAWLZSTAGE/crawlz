@@ -1,4 +1,6 @@
-
+####
+# Pypip auth
+*.pypirc
 
 
 ####
